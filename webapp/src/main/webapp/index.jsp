@@ -6,4 +6,4 @@
 <h1> I can't wait for you to start making big $$$$$</h1>
 <h1> Devops Engineer / Linux Admin </h1>
 <h1> 6 figure is on the way...</h1>
-<h1> jr devops and linux admin.</h1>
+<h1> DevOps Engineer | Linux Admin.</h1>
